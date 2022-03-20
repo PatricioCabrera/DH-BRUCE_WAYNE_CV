@@ -42,6 +42,14 @@ header h1{
     font-style: italic;
 }
 
+main ul li span{
+    padding-left: 80px;
+}
+
+main ul li{
+    margin-bottom: 5px;
+}
+
 footer{
     background-color: #005677;
     padding: 5px 0px;
